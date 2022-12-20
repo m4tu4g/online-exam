@@ -76,7 +76,7 @@
         <div class="carousel-inner">
         <div class="carousel-item active">
             <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img"><rect width="100%" height="100%" fill="#777"/></svg>
-            <img src="CarouselBG.png" />
+            <img src="CarouselBG.jpg" />
         <div class="container">
           <div class="carousel-caption text-left">
             <h1><b>Easy to Use.</b></h1>
@@ -87,7 +87,7 @@
       </div>
       <div class="carousel-item">
         <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img"><rect width="100%" height="100%" fill="#777"/></svg>
-          <img src="CarouselBG.png" />
+          <img src="CarouselBG.jpg" />
           <div class="container">
           <div class="carousel-caption">
             <h1><b>Efficient and Reliable.</b></h1>
@@ -98,7 +98,7 @@
       </div>
       <div class="carousel-item">
         <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img"><rect width="100%" height="100%" fill="#777"/></svg>
-          <img src="CarouselBG.png" />
+          <img src="CarouselBG.jpg" />
           <div class="container">
           <div class="carousel-caption text-right">
             <h1><b>Simple and Non-Complex.</b></h1>
